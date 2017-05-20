@@ -1,0 +1,26 @@
+/*REGRAS*/
+.bgA{background-color:#000;}
+.bgB{background-color:#111;}
+.bgC{background-color:#333;}
+.bgD{background-color:#555;}
+.bgE{background-color:#777;}
+.bgF{background-color:#999;}
+
+.invert{filter:invert(1);}
+
+.center{
+    margin: 0 auto !important;
+    float: none !important;
+}
+
+
+/*BASICOS*/
+.home{
+	height:100vh;
+	background-color:#ccc;
+}
+
+.homeMenu{
+	height:4.5em;
+	background-color:#dedede;
+}
