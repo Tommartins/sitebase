@@ -1,0 +1,28 @@
+<section class="row method">
+  <article class="col-lg-4">
+    <ul>
+      <h1><span></span>Primeiro Passo</h1>
+      <p>
+        Nós fazemos o briefing, você explica o que quer, eu entrego o que você mais precisa.
+      </p>
+    </ul>
+  </article>
+  
+  <article class="col-lg-4">
+    <ul>
+      <h1><span></span>Segundo Passo</h1>
+      <p>
+        Nós fazemos o briefing, você explica o que quer, eu entrego o que você mais precisa.
+      </p>
+    </ul>
+  </article>
+  
+  <article class="col-lg-4">
+    <ul>
+      <h1><span></span>Terceiro Passo</h1>
+      <p>
+        Nós fazemos o briefing, você explica o que quer, eu entrego o que você mais precisa.
+      </p>
+    </ul>
+  </article>
+</section>

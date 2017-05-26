@@ -1,0 +1,67 @@
+<!-- NECESSÁRIO BOOTSTRAP -->
+<!-- APRIMORAR RESPONSIVO -->
+
+
+<section class="row footer">
+  <div class="container-fluid col-lg-10">
+    <article class="col-lg-3">
+      <ul><h1 class="logotxt">Tom Martins</h1>
+        <h2 class="sublogo">Web <b>Designer</b> & 3D <b>Generalist</b> <b>Freelancer</b></h2></ul>
+      <ul class="fotsocial">
+        <li><a href="https://www.facebook.com/arivelton.martins" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+        <li><a href="https://twitter.com/tmarts_" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+        <li><a href="https://www.instagram.com/martins.arts" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>        
+        <li><a href="https://tmarts.com.br" target="_blank"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
+        <li><a href="https://tmarts.com.br" target="_blank"><i class="fa fa-medium" aria-hidden="true"></i></a></li>
+        <li><a href="https://www.linkedin.com/in/tmarts/" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+        <li><a href="https://www.artstation.com/artist/tom_martins" target="_blank"><i class="fa fa-pencil-square-o" aria-hidden="true"></i></a></li>
+        <li><a href="tmarts.com.br" target="_blank"><i class="fa fa-money" aria-hidden="true"></i></a></li>        
+      </ul>
+    </article>
+    
+    
+    <article class="col-lg-6">
+      <ul class="container-fluid col-lg-8 fotmenu">
+        <li>home</li>
+        <li>sobre</li>
+        <li>cases</li>        
+        <li>blog</li>
+        <li>contato</li>
+      </ul>
+      
+      <ul class="container-fluid col-lg-10 fotquote">
+        <h3>"Tá deprimidis, eu conheço uma cachacis que pode alegrar sua vidis. Mais vale um bebadis conhecidiss, que um alcoolatra anonimis."</h3>
+      </ul>
+    </article>
+    
+    
+    <article class="col-lg-3">
+       <!--- FORMULARIO MAILCHIMP -->
+  <article class="mailchimp row">
+    <h1 class="logotxt">Hey! Assine a <strong>newsletter</strong></h1>
+  <!-- Begin MailChimp Signup Form -->
+  <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+  <form action="//tmarts.us15.list-manage.com/subscribe/post?u=0a6beb4f6ee30433d71d66c99&amp;id=7cdeeacaed" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate"     target="_blank" novalidate>
+                
+                
+    <ul class="container-fluid col-lg-12 linhas">    
+      <li class="col-lg-12">
+        <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Seu email aqui" class="email" />
+      </li>
+      
+      <li class="col-lg-12">
+        <input type="submit" value="Assinar" name="subscribe" id="mc-embedded-subscribe" class="btn"/>
+      </li>
+    </ul>
+  </form>
+  <!--End mc_embed_signup-->
+  </article>
+    </article>
+  </div>
+</section>
+
+
+<!-- signature -->
+<section class="sig container">
+  <h1 class="col-lg-12">Desenvolvido por Tom Martins - 2017</h1>
+</section>
